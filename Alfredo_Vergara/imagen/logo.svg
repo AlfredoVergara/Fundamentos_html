@@ -1,0 +1,11 @@
+<svg width="125" height="60" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="6.875" rx="51.25" cy="37.625" cx="62.4" stroke-width="5" stroke="#3f7f00" fill="#3f7f00" id="svg_3"/>
+  <text xml:space="preserve" y="48.6517" x="39.8271" transform="matrix(1.17663 0 0 1.3142 -4.33802 -22.7566)" text-anchor="middle" stroke-width="0" stroke="#3f7f00" fill="#ffffff" style="cursor: move; pointer-events: inherit;" font-weight="bold" font-style="italic" font-size="24" font-family="Cursive" id="svg_5">AM</text>
+  <text xml:space="preserve" y="51.4621" x="83.71" transform="matrix(1.08696 0 0 1.37369 -5.33913 -29.5598)" text-anchor="middle" stroke-width="0" stroke="#3f7f00" fill="#ffffff" style="cursor: move; pointer-events: inherit;" font-weight="bold" font-style="italic" font-size="24" font-family="Cursive" id="svg_6">VC</text>
+  <text xml:space="preserve" y="48.3483" x="39.3778" transform="matrix(1.17663 0 0 1.3142 -4.33802 -22.7566)" text-anchor="middle" stroke-width="0" stroke="#3f7f00" fill="#0000ff" style="cursor: move; pointer-events: inherit;" font-weight="normal" font-style="italic" font-size="24" font-family="Cursive" id="svg_7">AM</text>
+  <text xml:space="preserve" y="-114.15" x="-133.1791" transform="matrix(1.08696 0 0 1.37369 228.758 196.916)" text-anchor="middle" stroke-width="0" stroke="#3f7f00" fill="#007fff" style="cursor: move; pointer-events: inherit;" font-weight="normal" font-style="italic" font-size="24" font-family="Cursive" id="svg_8">VC</text>
+ </g>
+</svg>
